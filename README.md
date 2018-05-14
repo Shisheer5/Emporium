@@ -1,0 +1,2 @@
+# POS-Ledger-System
+My client used a paper-based system to record and account for sales. Thereby, after numerous meetings and consultations, I analyzed the situation and made the success criteria, which need to be satisfied while developing the digital-based solution. Consequently, features such as calculating sales, printing receipts, controlling stocks and graphing sales were added on the request of the client, since these tasks were closely associated with recording sales and made the application more intuitive.
